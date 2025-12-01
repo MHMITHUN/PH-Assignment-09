@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Tech Gadget Box",
+        "thumbnail": "https://i.ibb.co/h9yF2z8/tech-box.jpg",
+        "category": "Technology",
+        "price": 49.99,
+        "frequency": "Monthly",
+        "description": "Get the latest tech gadgets delivered to your door every month. From headphones to smart home devices, we've got you covered."
+    },
+    {
+        "id": 2,
+        "name": "Beauty & Glow",
+        "thumbnail": "https://i.ibb.co/5GzXwz8/beauty-box.jpg",
+        "category": "Beauty",
+        "price": 29.99,
+        "frequency": "Monthly",
+        "description": "Discover new beauty products with our curated selection of skincare, makeup, and haircare items."
+    },
+    {
+        "id": 3,
+        "name": "Bookworm's Delight",
+        "thumbnail": "https://i.ibb.co/0jZ3z8/book-box.jpg",
+        "category": "Books",
+        "price": 19.99,
+        "frequency": "Monthly",
+        "description": "Dive into a new world with our hand-picked books. Choose your favorite genre and let us surprise you."
+    },
+    {
+        "id": 4,
+        "name": "Fitness Fanatic",
+        "thumbnail": "https://i.ibb.co/7yF2z8/fitness-box.jpg",
+        "category": "Fitness",
+        "price": 39.99,
+        "frequency": "Quarterly",
+        "description": "Stay fit and healthy with our fitness box. Includes workout gear, supplements, and healthy snacks."
+    },
+    {
+        "id": 5,
+        "name": "Gourmet Snacks",
+        "thumbnail": "https://i.ibb.co/9yF2z8/snack-box.jpg",
+        "category": "Food",
+        "price": 24.99,
+        "frequency": "Monthly",
+        "description": "Treat yourself to delicious gourmet snacks from around the world. Perfect for movie nights or office cravings."
+    },
+    {
+        "id": 6,
+        "name": "Pet Lovers",
+        "thumbnail": "https://i.ibb.co/1yF2z8/pet-box.jpg",
+        "category": "Pets",
+        "price": 34.99,
+        "frequency": "Monthly",
+        "description": "Spoil your furry friend with toys, treats, and accessories. Tailored for dogs and cats."
+    }
+]
