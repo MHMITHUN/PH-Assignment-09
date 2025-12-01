@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Tech Gadget Box",
-        "thumbnail": "https://i.ibb.co/h9yF2z8/tech-box.jpg",
+        "thumbnail": "https://i.postimg.cc/L4xKF4RK/tech-box.jpg",
         "category": "Technology",
         "price": 49.99,
         "frequency": "Monthly",
@@ -11,7 +11,7 @@
     {
         "id": 2,
         "name": "Beauty & Glow",
-        "thumbnail": "https://i.ibb.co/5GzXwz8/beauty-box.jpg",
+        "thumbnail": "https://i.postimg.cc/HxTKFRhd/beauty-2.webp",
         "category": "Beauty",
         "price": 29.99,
         "frequency": "Monthly",
@@ -20,7 +20,7 @@
     {
         "id": 3,
         "name": "Bookworm's Delight",
-        "thumbnail": "https://i.ibb.co/0jZ3z8/book-box.jpg",
+        "thumbnail": "https://i.postimg.cc/BQRzJXVD/bookworm3.jpg",
         "category": "Books",
         "price": 19.99,
         "frequency": "Monthly",
@@ -29,7 +29,7 @@
     {
         "id": 4,
         "name": "Fitness Fanatic",
-        "thumbnail": "https://i.ibb.co/7yF2z8/fitness-box.jpg",
+        "thumbnail": "https://i.postimg.cc/rpNZGgwT/fitness4.jpg",
         "category": "Fitness",
         "price": 39.99,
         "frequency": "Quarterly",
@@ -38,7 +38,7 @@
     {
         "id": 5,
         "name": "Gourmet Snacks",
-        "thumbnail": "https://i.ibb.co/9yF2z8/snack-box.jpg",
+        "thumbnail": "https://i.postimg.cc/x8h6j4ty/snacks5.jpg",
         "category": "Food",
         "price": 24.99,
         "frequency": "Monthly",
@@ -47,7 +47,7 @@
     {
         "id": 6,
         "name": "Pet Lovers",
-        "thumbnail": "https://i.ibb.co/1yF2z8/pet-box.jpg",
+        "thumbnail": "https://i.postimg.cc/7ZgKDX7P/petlover6.jpg",
         "category": "Pets",
         "price": 34.99,
         "frequency": "Monthly",

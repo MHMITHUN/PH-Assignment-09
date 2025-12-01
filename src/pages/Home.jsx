@@ -24,7 +24,7 @@ const Home = () => {
             </section>
 
             {/* Services Section */}
-            <section className="container mx-auto px-4 sm:px-6 lg:px-8 py-16">
+            <section id="services" className="container mx-auto px-4 sm:px-6 lg:px-8 py-16">
                 <div className="text-center mb-12 animate-slide-up">
                     <h2 className="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-primary-600 to-secondary-600 bg-clip-text text-transparent">
                         Our Subscription Boxes
