@@ -1,12 +1,12 @@
 # 📦 Boxify - Premium Subscription Box Service
 
-![Boxify Banner](https://i.ibb.co/tYw50P9/user.png) <!-- You can replace this with a screenshot of your homepage -->
+![Boxify Banner](https://i.postimg.cc/26qzPpW5/Gemini-Generated-Image-d4titzd4titzd4ti.png) 
 
 **Boxify** is a modern, responsive web application designed for a premium subscription box service. Users can explore various curated boxes (Tech, Beauty, Books, Fitness, etc.), view detailed information, and manage their subscriptions through a personalized dashboard. The application features a stunning UI with glassmorphism effects, smooth animations, and a robust authentication system.
 
 ## 🚀 Live Demo
 
-[**Live Demo**](https://boxify-assignment-09.vercel.app/) 
+[**Live Demo**](https://ph-assignment-9-mahamudul.surge.sh) 
 ---
 
 ## ✨ Key Features
