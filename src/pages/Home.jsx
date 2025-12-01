@@ -99,12 +99,12 @@ const Home = () => {
                                 <img src="https://i.ibb.co/tYw50P9/user.png" alt="User" className="w-12 h-12 rounded-full" />
                             </div>
                             <div>
-                                <h4 className="font-bold text-gray-800 text-lg">Alice Johnson</h4>
+                                <h4 className="font-bold text-gray-800 text-lg">Jhankar Mahmud</h4>
                                 <p className="text-sm text-gray-500">Tech Box Subscriber</p>
                             </div>
                         </div>
                         <p className="text-gray-600 leading-relaxed italic">
-                            "I love the Tech Gadget Box! Every month feels like Christmas. The products are always high quality and useful. Best subscription service I've ever used!"
+                            "I love the Tech Gadget Box! Every month feels like EID. The products are always high quality and useful. Best subscription service I've ever used!"
                         </p>
                         <div className="flex mt-4 text-yellow-400">
                             ⭐⭐⭐⭐⭐
@@ -116,7 +116,7 @@ const Home = () => {
                                 <img src="https://i.ibb.co/tYw50P9/user.png" alt="User" className="w-12 h-12 rounded-full" />
                             </div>
                             <div>
-                                <h4 className="font-bold text-gray-800 text-lg">Mark Smith</h4>
+                                <h4 className="font-bold text-gray-800 text-lg">Mahamudul Hasan</h4>
                                 <p className="text-sm text-gray-500">Fitness Box Subscriber</p>
                             </div>
                         </div>
